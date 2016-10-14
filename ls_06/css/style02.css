@@ -1,0 +1,13 @@
+body p{/*0,0,0,2*/
+  color: green;
+}
+.text{/*0,0,1,0*/
+color: red;
+background: yellow;
+}
+[type="text"]{
+  color: black;
+}
+#sometext{
+  color:blue;
+}
